@@ -7,7 +7,7 @@ permalink: /
 subtitle: <a href='https://eecs.berkeley.edu'>UC Berkeley EECS</a>
 profile:
   align: right
-  image: Logo.png
+  image: Logo2.png
   image_circular: false
 news: true
 selected_papers: false

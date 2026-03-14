@@ -1,13 +1,16 @@
 ---
 layout: page
-title: submenus
+title: Resources
 nav: true
-nav_order: 8
+nav_order: 6
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
+  - title: Notes
+    permalink: /notes/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: YouTube
+    permalink: /youtube/
+  - title: divider
+  - title: External Links
+    permalink: /links/
 ---

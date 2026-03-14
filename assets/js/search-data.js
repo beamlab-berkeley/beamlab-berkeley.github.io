@@ -79,14 +79,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
-        },{id: "dropdown-bookshelf",
+        },{id: "dropdown-ee-105",
+              title: "EE 105",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/teaching/ee105/";
+              },
+            },{id: "dropdown-ee-210",
+              title: "EE 210",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/teaching/ee210/";
+              },
+            },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
               section: "Dropdown",

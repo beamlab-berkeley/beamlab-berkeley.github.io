@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Home
-nav: true
+nav: false
 nav_order: 1
 permalink: /
 subtitle: <a href='https://eecs.berkeley.edu'>UC Berkeley EECS</a>
